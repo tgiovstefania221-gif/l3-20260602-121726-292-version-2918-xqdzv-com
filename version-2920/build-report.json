@@ -1,0 +1,24 @@
+{
+  "parsed_movies": 2000,
+  "detail_pages": 2000,
+  "html_pages": 2016,
+  "category_pages": 12,
+  "category_distribution": {
+    "精选电影": 167,
+    "热播推荐": 167,
+    "高清影院": 167,
+    "最新更新": 167,
+    "剧情故事": 167,
+    "爱情治愈": 167,
+    "动作冒险": 167,
+    "悬疑反转": 167,
+    "科幻奇幻": 166,
+    "喜剧休闲": 166,
+    "动画动漫": 166,
+    "剧集综艺": 166
+  },
+  "category_coverage": 2000,
+  "video_sources": 150,
+  "analytics_missing": [],
+  "image_files_in_package": []
+}
